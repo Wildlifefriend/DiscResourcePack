@@ -1,0 +1,138 @@
+{
+  "music_disc.spamton": {
+    "sounds": [
+      {
+        "name": "custommusic:records/spamton",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.my_castle_town": {
+    "sounds": [
+      {
+        "name": "custommusic:records/my_castle_town",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.big_shot": {
+    "sounds": [
+      {
+        "name": "custommusic:records/big_shot",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.berdly": {
+    "sounds": [
+      {
+        "name": "custommusic:records/berdly",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.the_world_revolving": {
+    "sounds": [
+      {
+        "name": "custommusic:records/the_world_revolving",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.thrash_machine": {
+    "sounds": [
+      {
+        "name": "custommusic:records/thrash_machine",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.ram_ranch": {
+    "sounds": [
+      {
+        "name": "custommusic:records/ram_ranch",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.fallen_kingdom": {
+    "sounds": [
+      {
+        "name": "custommusic:records/fallen_kingdom",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.apple_bottom_jeans": {
+    "sounds": [
+      {
+        "name": "custommusic:records/apple_bottom_jeans",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.sink_the_bismarck": {
+    "sounds": [
+      {
+        "name": "custommusic:records/sink_the_bismarck",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.erika": {
+    "sounds": [
+      {
+        "name": "custommusic:records/erika",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.kinky_boots": {
+    "sounds": [
+      {
+        "name": "custommusic:records/kinky_boots",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.i_can_do_anything": {
+    "sounds": [
+      {
+        "name": "custommusic:effects/i_can_do_anything",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.hello_parody": {
+    "sounds": [
+      {
+        "name": "custommusic:records/hello_parody",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.i_love_the_ccp": {
+    "sounds": [
+      {
+        "name": "custommusic:records/i_love_the_ccp",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.minecraft_wont_add_inches": {
+    "sounds": [
+      {
+        "name": "custommusic:records/minecraft_wont_add_inches",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.smash_and_grab": {
+    "sounds": [
+      {
+        "name": "custommusic:records/smash_and_grab",
+        "stream": true
+      }
+    ]
+  }
+}

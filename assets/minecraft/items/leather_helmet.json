@@ -1,0 +1,26 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "cases": [
+      {
+        "when": "Cowboy Hat",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custommusic:item/cowboy_hat"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/leather_helmet",
+      "tints": [
+        {
+              "type": "minecraft:dye",
+              "default": 5583905
+        }
+      ]
+    }
+  }
+}
